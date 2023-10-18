@@ -1,0 +1,17 @@
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/controller/UsuarioController.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/response/RegistroUsuarioRespModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/entity/TelefonoEntModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/repository/UsuarioRepository.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/request/TelefonoReqModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/JwtTokenProvider.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/DemoNisumApplication.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/Dao/TelefonoDao.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/service/UsuarioService.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/response/TelefonoRespModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/Dao/UsuarioDao.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/CorsConfig.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/entity/UsuarioEntModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/util/Validaciones.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/request/UsuarioReqModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/response/UsuarioRespModel.java
+/Users/danielcardenas/Documents/workspace-spring-tool-suite-4-4.20.0.RELEASE/demo-nisum/src/main/java/com/example/demo/repository/TelefonoRepository.java
