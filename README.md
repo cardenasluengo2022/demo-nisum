@@ -31,6 +31,9 @@ Hola, mi nombre es Daniel Cárdenas Luengo, les presento mi demo para el puesto 
 - Hacer click en "Try it out" y reemplazar los campos "String" por los valores que desee.
 - Y finalmente click en execute.
 
+- **Visualizar gestor de base de datos H2:**
+  	> http://localhost:8080/h2-ui/
+
 
 
 # Dudas o consultas 
