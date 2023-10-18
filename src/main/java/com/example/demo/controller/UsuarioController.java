@@ -15,14 +15,14 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/demo")
 public class UsuarioController {
 	
 	@Autowired
 	UsuarioService usuarioService;
 	
 	
-	@PostMapping("/tutorials")
+	@PostMapping("/registrarUsuario")
 	public ResponseEntity<RegistroUsuarioRespModel> registroUsuario(@RequestBody UsuarioReqModel params) {
 		log.info("- Parametros de Entrada en UsuarioController.registroUsuario: " + params);
 		
